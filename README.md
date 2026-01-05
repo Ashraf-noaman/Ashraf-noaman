@@ -61,8 +61,8 @@
 ---
 
 ## 📫 Contact Me
-Email: ashrafnoaman17@gmail.com
-Telegram: @Ashrafnoaman  
+Email: ashrafnoaman17@gmail.com <br>
+Telegram: @Ashrafnoaman  <br>
 LinkedIn: ‏Ashraf Noaman‏
 
 ---
