@@ -60,10 +60,16 @@
 
 ## 📫 Contact Me
 <p align="left">
+<div style="display:flex; align-items:center; gap:10px;">
+  <a href="https://www.linkedin.com/in/ashraf-noaman-65a8a9198/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ashraf_noaman72/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/ashraf-noaman-65a8a9198/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/ashraf_noaman72/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>‏
+‏
 
 ---
 
