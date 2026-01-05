@@ -50,8 +50,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&rank_icon=github" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=dark&hide_border=false" width="48%" />
