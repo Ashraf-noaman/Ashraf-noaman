@@ -61,11 +61,9 @@
 ---
 
 ## 📫 Contact Me
-Email:  
-Telegram:  
-LinkedIn:  
-
-(share your links and I will fill them for you)
+Email: ashrafnoaman17@gmail.com
+Telegram: @Ashrafnoaman  
+LinkedIn: ‏Ashraf Noaman‏
 
 ---
 
