@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### 👋 Hi, I'm **Ashraf Nouman**
+### 👋 Hi, I'm **Ashraf Noaman**
 ### 💻 Front-End React Developer
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
